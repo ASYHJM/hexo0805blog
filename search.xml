@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>眺望星空(测试)</title>
-    <url>/2024/08/03/%E7%9C%BA%E6%9C%9B%E6%98%9F%E7%A9%BA/</url>
-    <content><![CDATA[<h1 id="我是阿氏圆"><a href="#我是阿氏圆" class="headerlink" title="我是阿氏圆"></a>我是阿氏圆</h1><h2 id="首篇文章哦"><a href="#首篇文章哦" class="headerlink" title="首篇文章哦"></a>首篇文章哦</h2><p><a href="https://space.bilibili.com/1008052983?spm_id_from=333.1007.0.0">&gt;&gt;&gt;个人B站</a><br>咱的VX公众号&gt;&gt;&gt;<br><img src="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=Mzg4MDc5MTQ5OA==&mid=2247484918&idx=1&sn=ab9da7fc0a1316f32f0e7cdce96aed5e&send_time=" alt="next2" title="扫一扫哦"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;this is a title&lt;/title&gt;</span><br><span class="line">    &lt;/head&gt;</span><br><span class="line">    &lt;body&gt;&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
-
-
-]]></content>
-      <categories>
-        <category>软件</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>星图</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/1919/08/10/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -37,24 +21,8 @@
         <category>软件</category>
       </categories>
       <tags>
-        <tag>星图</tag>
         <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件教程02：全平台下载超好用的星图软件Stellarium</title>
-    <url>/2024/08/03/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B02%EF%BC%9A%E5%85%A8%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%BD%BD%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E6%98%9F%E5%9B%BE%E8%BD%AF%E4%BB%B6stellarium/</url>
-    <content><![CDATA[<p>本文按：不同的操作系统，给出不同的stellarium软件安装地址。<br><strong>Windows——</strong>:<br>  <a href="https://stellarium.org/zh_CN/" title="stellarium官网">请看这里&gt;&gt;https://stellarium.org/zh_CN&#x2F;</a></p>
-<p><strong>Android——</strong><br>  <a href="https://www.123pan.com/s/IX90jv-hZB6d.html">请看这里&gt;&gt;https://www.123pan.com/s/IX90jv-hZB6d.html</a><br>    提取码：Aeac<br><em>注意：Android下载下来的.apk文件相当于安装包，需要您运行这个安装包（<del>无视风险继续安装</del>），stellarium才能被安装</em></p>
-<p><strong>iOS——</strong><br>  <a href="https://apps.apple.com/cn/app/stellarium-mobile-%E6%98%9F%E7%A9%BA%E5%9B%BE/id1458716890">看我干嘛?去App Store搜索并下载啊！</a></p>
-<p><strong>您也可以在左边“友情链接”处发现它们哟~祝您赏星愉快（＊＾▽＾＊）</strong></p>
-]]></content>
-      <categories>
-        <category>软件</category>
-      </categories>
-      <tags>
         <tag>星图</tag>
-        <tag>软件</tag>
       </tags>
   </entry>
   <entry>
@@ -73,6 +41,38 @@
       <tags>
         <tag>谷歌</tag>
         <tag>Chrome</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>眺望星空(测试)</title>
+    <url>/2024/08/03/%E7%9C%BA%E6%9C%9B%E6%98%9F%E7%A9%BA/</url>
+    <content><![CDATA[<h1 id="我是阿氏圆"><a href="#我是阿氏圆" class="headerlink" title="我是阿氏圆"></a>我是阿氏圆</h1><h2 id="首篇文章哦"><a href="#首篇文章哦" class="headerlink" title="首篇文章哦"></a>首篇文章哦</h2><p><a href="https://space.bilibili.com/1008052983?spm_id_from=333.1007.0.0">&gt;&gt;&gt;个人B站</a><br>咱的VX公众号&gt;&gt;&gt;<br><img src="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=Mzg4MDc5MTQ5OA==&mid=2247484918&idx=1&sn=ab9da7fc0a1316f32f0e7cdce96aed5e&send_time=" alt="next2" title="扫一扫哦"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;this is a title&lt;/title&gt;</span><br><span class="line">    &lt;/head&gt;</span><br><span class="line">    &lt;body&gt;&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
+
+
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>星图</tag>
+        <tag>导航</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件教程02：全平台下载超好用的星图软件Stellarium</title>
+    <url>/2024/08/03/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B02%EF%BC%9A%E5%85%A8%E5%B9%B3%E5%8F%B0%E4%B8%8B%E8%BD%BD%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E6%98%9F%E5%9B%BE%E8%BD%AF%E4%BB%B6stellarium/</url>
+    <content><![CDATA[<p>本文按：不同的操作系统，给出不同的stellarium软件安装地址。<br><strong>Windows——</strong>:<br>  <a href="https://stellarium.org/zh_CN/" title="stellarium官网">请看这里&gt;&gt;https://stellarium.org/zh_CN&#x2F;</a></p>
+<p><strong>Android——</strong><br>  <a href="https://www.123pan.com/s/IX90jv-hZB6d.html">请看这里&gt;&gt;https://www.123pan.com/s/IX90jv-hZB6d.html</a><br>    提取码：Aeac<br><em>注意：Android下载下来的.apk文件相当于安装包，需要您运行这个安装包（<del>无视风险继续安装</del>），stellarium才能被安装</em></p>
+<p><strong>iOS——</strong><br>  <a href="https://apps.apple.com/cn/app/stellarium-mobile-%E6%98%9F%E7%A9%BA%E5%9B%BE/id1458716890">看我干嘛?去App Store搜索并下载啊！</a></p>
+<p><strong>您也可以在左边“友情链接”处发现它们哟~祝您赏星愉快（＊＾▽＾＊）</strong></p>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>软件</tag>
+        <tag>星图</tag>
       </tags>
   </entry>
 </search>
